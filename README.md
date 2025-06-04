@@ -27,3 +27,19 @@ source venv/bin/activate
 
 # Step 3: Install core packages
 pip install numpy pandas matplotlib seaborn jupyter
+
+📚 Table of Contents
+
+Python Essentials
+NumPy Exploration
+Pandas Deep Dive
+Data Visualization
+Mini EDA Project
+
+🚀 Coming Soon
+Detailed notebooks, practice exercises, and a guided mini-project to apply your skills in real-world scenarios.
+
+
+---
+
+Let me know if you'd like a script to auto-generate this file or additional sections like contributor guidelines, badges, or a sample folder structure!
